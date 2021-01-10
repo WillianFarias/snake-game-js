@@ -15,5 +15,6 @@ Clone
 ```bash
 $ git clone https://github.com/WillianFarias/snake-game-js
 ```
-![Captura de tela de 2020-11-29 00-21-16](https://user-images.githubusercontent.com/13625877/100531077-d9b2c200-31d8-11eb-8bb4-3b317a387ea2.png)
+![Captura de tela de 2021-01-10 18-14-40](https://user-images.githubusercontent.com/13625877/104135545-e0079280-536f-11eb-8b15-ba62be2fbe50.png)
+
 
